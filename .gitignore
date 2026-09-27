@@ -1,0 +1,17 @@
+# Working files the scripts create. They list your photos: keep them out of git.
+phone_manifest.txt
+phone_dir.txt
+takeout_names.txt
+verified.txt
+missing.txt
+other_years.txt
+upload/
+archive/
+takeout-*.zip
+*.tmp
+.phone_*.txt
+.verified_sorted.txt
+.to_delete.txt
+.ondevice_delete.sh
+.verify_takeout.lock/
+.DS_Store
